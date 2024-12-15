@@ -3,14 +3,12 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD01V>
-    <DOMNAME>ZD_IDIOMA</DOMNAME>
+    <DOMNAME>ZD_PAGINAS</DOMNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DATATYPE>LANG</DATATYPE>
-    <LENG>000001</LENG>
-    <OUTPUTLEN>000002</OUTPUTLEN>
-    <LOWERCASE>X</LOWERCASE>
-    <CONVEXIT>ISOLA</CONVEXIT>
-    <DDTEXT>Idioma</DDTEXT>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000004</LENG>
+    <OUTPUTLEN>000004</OUTPUTLEN>
+    <DDTEXT>Paginas</DDTEXT>
     <DOMMASTER>E</DOMMASTER>
    </DD01V>
   </asx:values>
