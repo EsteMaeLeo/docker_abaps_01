@@ -21,6 +21,7 @@ CLASS zcl_chef1 IMPLEMENTATION.
     WRITE: / |Chef calling waiter event|.
     RAISE EVENT call_for_waiter.
     WRITE: / |Chef calling waiter event complete|.
+    WRITE: / |Chef calling waiter event complete 2|.
     ULINE.
 
   ENDMETHOD.
