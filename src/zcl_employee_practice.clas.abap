@@ -32,7 +32,7 @@ CLASS zcl_employee_practice IMPLEMENTATION.
 
   METHOD get_employee_id.
 
-    rv_employee_id = me->employee_id.
+    "rv_employee_id = me->employee_id.
 
   ENDMETHOD.
 
